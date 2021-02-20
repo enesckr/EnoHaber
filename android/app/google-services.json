@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603066670196",
+    "project_id": "enohaber",
+    "storage_bucket": "enohaber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603066670196:android:5fac912ec360a4fce70521",
+        "android_client_info": {
+          "package_name": "com.ns.news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603066670196-vmg31lf47sjhbf26vifr24mhvqup2b5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE1vlO3vjc7BpTmk_ZLX1dN7Kl-mhPWvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603066670196-vmg31lf47sjhbf26vifr24mhvqup2b5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
