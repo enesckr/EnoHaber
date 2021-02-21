@@ -1,4 +1,4 @@
-# news_app
+# EnoHaber
 
 A new Flutter application.
 
