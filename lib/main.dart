@@ -1,24 +1,7 @@
-// void main() {
-//   runApp(MyApp());
-// }
-//
-// class MyApp extends StatelessWidget {
-//   @override
-//   Widget build(BuildContext context) {
-//     return MaterialApp(
-//       title: 'EnoHaber',
-//       debugShowCheckedModeBanner: false,
-//       theme: ThemeData(
-//         primaryColor: Colors.white,
-//       ),
-//       home: AuthTypeSelector(),
-//     );
-//   }
-// }
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 
-import 'file:///C:/Users/Lenovo/Desktop/Compilers/flutter_projects/news_app/lib/views/auth_type_page.dart';
+import 'views/auth_type_page.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
