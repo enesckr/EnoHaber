@@ -1,6 +1,6 @@
 # EnoHaber
 
-A new Flutter application.
+It is a mobile application written in accordance with Model View Controller (MVC) architecture using Flutter and Firebase technology. Its main goal was to consolidate the MVC architecture, to process through JSON data, and to try Firebase with features such as authentication.
 
 # Screenshots
 <img src="https://github.com/enesckr/EnoHaber/blob/master/screenshots/splash-screen.jpeg" width="300" height="500" >
