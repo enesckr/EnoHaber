@@ -3,8 +3,13 @@
 A new Flutter application.
 
 # Screenshots
-![Image of intro](/splash-screen.jpeg)
-
+<img src="https://github.com/enesckr/EnoHaber/blob/master/screenshots/splash-screen.jpeg" width="300" height="500" >
+<img src="https://github.com/enesckr/EnoHaber/blob/master/screenshots/intro-screen.jpeg" width="300" height="500" >
+<img src="https://github.com/enesckr/EnoHaber/blob/master/screenshots/register-screen.jpeg" width="300" height="500" >
+<img src="https://github.com/enesckr/EnoHaber/blob/master/screenshots/signin-screen.jpeg" width="300" height="500" >
+<img src="https://github.com/enesckr/EnoHaber/blob/master/screenshots/news-categories-screen.jpeg" width="300" height="500" >
+<img src="https://github.com/enesckr/EnoHaber/blob/master/screenshots/new-detail-screen.jpeg" width="300" height="500" >
+<img src="https://github.com/enesckr/EnoHaber/blob/master/screenshots/preferences-screen.jpeg" width="300" height="500" >
 
 ## Getting Started
 
