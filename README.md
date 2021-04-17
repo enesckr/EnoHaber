@@ -3,7 +3,7 @@
 A new Flutter application.
 
 # Screenshots
-<img src="https://github.com/enesckr/EnoHaber/tree/master/screenshots/into-screen.jpeg" />
+![Image of intro](/splash-screen.jpeg)
 
 
 ## Getting Started
