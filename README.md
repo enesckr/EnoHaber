@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+# Screenshots
+<img src="https://github.com/enesckr/EnoHaber/tree/master/screenshots/into-screen.jpeg" />
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
